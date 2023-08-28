@@ -11,6 +11,11 @@ public class SumOfDigits {
 			num = num/10;
 		}
 		System.out.println(sum);
+		
+		
+/*		char ch='M'; 
+		int x=ch;
+		System.out.println(x);*/ 
 	}
 
 }
